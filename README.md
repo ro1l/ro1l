@@ -1,3 +1,6 @@
+<h1>Hi 👋, I'm je</h1>
+<h3>A passionate frontend developer from India</h3>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ro1l&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff"
@@ -10,11 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ro1l&show_icons=true" />
 </picture>
 
-
-<h1>Hi 👋, I'm je</h1>
-<h3>A passionate frontend developer from India</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro1l&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [Rolling](https://ro1l.github.io/rolling/#/)
 
