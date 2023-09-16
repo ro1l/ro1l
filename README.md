@@ -1,10 +1,10 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ro1l&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ro1l&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ro1l&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ro1l&layout=compact&theme=transparent&title_color=000000&text_color=000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ro1l&show_icons=true" />
