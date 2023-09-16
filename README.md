@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro1l&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ro1l&layout=compact&theme=transparent&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
