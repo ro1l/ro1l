@@ -12,6 +12,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ro1l&show_icons=true" />
 </picture>
 
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<div>
 
 <img src="https://github.com/ro1l/ro1l/assets/129648509/11209d36-ea51-4b4f-a973-9b153f924b88" width="100" height="100"/>
 - 🔭 I’m currently working on [Rolling](https://ro1l.github.io/rolling/#/)
