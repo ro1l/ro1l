@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ro1l&show_icons=true" />
 </picture>
 
-## Find me around the web 🌎: <a href="https://ro1l.github.io/#/"><img align="left" width="150" height="150" src="https://github.com/ro1l/ro1l/assets/129648509/11209d36-ea51-4b4f-a973-9b153f924b88?raw=true"></a>
+## Find me around the web 🌎: <a href="https://ro1l.github.io/#/"><img align="left" width="150" height="150" src="https://github.com/ro1l/ro1l/assets/129648509/787586b3-a799-466f-b038-b849848b6b69?raw=true"></a>
 - 🔭 I’m currently working on [Rolling](https://ro1l.github.io/rolling/#/)
 - 📫 How to reach me **qwer90218@gmail.com**
 - 🐣 This is my personal website [je](https://ro1l.github.io/#/)
