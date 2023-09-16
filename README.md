@@ -14,7 +14,8 @@
 
 <p>
     <img src="https://github.com/ro1l/ro1l/assets/129648509/11209d36-ea51-4b4f-a973-9b153f924b88" width="100" height="100" hspace="10" >
-      - 🔭 I’m currently working on [Rolling](https://ro1l.github.io/rolling/#/)
+    <p alight=top>- 🔭 I’m currently working on [Rolling](https://ro1l.github.io/rolling/#/)</p>
+      
 </p>
 <div>
     <img align=left src="https://github.com/ro1l/ro1l/assets/129648509/11209d36-ea51-4b4f-a973-9b153f924b88" width="100" height="100"/>
