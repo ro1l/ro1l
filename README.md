@@ -18,13 +18,9 @@
 
 <img src="https://github.com/ro1l/ro1l/assets/129648509/11209d36-ea51-4b4f-a973-9b153f924b88" width="100" height="100"/>
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/ro1l/ro1l/assets/129648509/11209d36-ea51-4b4f-a973-9b153f924b88" width="100" height="100"/>
-  <div>
-    <p> - 📫 How to reach me **qwer90218@gmail.com**</p>
-    <p>  - 🔭 I’m currently working on [Rolling](https://ro1l.github.io/rolling/#/)</p>
-  </div>
-</div>
+## Find me around the web 🌎: <a href="https://ro1l.github.io/#/"><img align="left" width="150" height="150" src="https://github.com/ro1l/ro1l/assets/129648509/11209d36-ea51-4b4f-a973-9b153f924b88?raw=true"></a>
+- 🔭 I’m currently working on [Rolling](https://ro1l.github.io/rolling/#/)
+- 📫 How to reach me **qwer90218@gmail.com**
 
 
 <h2 align="left">Languages and Tools:</h2>
