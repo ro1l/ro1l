@@ -12,19 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ro1l&show_icons=true" />
 </picture>
 
-<p>
-    <img src="https://github.com/ro1l/ro1l/assets/129648509/11209d36-ea51-4b4f-a973-9b153f924b88" width="100" height="100" hspace="10" >
-    <p hspace="10">- 🔭 I’m currently working on [Rolling](https://ro1l.github.io/rolling/#/)</p>
-      
-</p>
-<div>
-    <img align=left src="https://github.com/ro1l/ro1l/assets/129648509/11209d36-ea51-4b4f-a973-9b153f924b88" width="100" height="100"/>
-    <div  align=right>
-      - 🔭 I’m currently working on [Rolling](https://ro1l.github.io/rolling/#/)
-    </div>
-<div>
-
 <img src="https://github.com/ro1l/ro1l/assets/129648509/11209d36-ea51-4b4f-a973-9b153f924b88" width="100" height="100"/>
+
 - 🔭 I’m currently working on [Rolling](https://ro1l.github.io/rolling/#/)
 
 - 📫 How to reach me **qwer90218@gmail.com**
