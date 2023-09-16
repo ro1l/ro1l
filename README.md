@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm je</h1>
-<h3>A passionate frontend developer from India</h3>
 
 <picture>
   <source
