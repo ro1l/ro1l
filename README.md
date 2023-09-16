@@ -15,8 +15,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<h1 align="center">Hi 👋, I'm je</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm je</h1>
+<h3>A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Rolling](https://ro1l.github.io/rolling/#/)
 
